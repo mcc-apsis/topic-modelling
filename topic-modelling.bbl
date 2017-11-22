@@ -1,0 +1,47 @@
+\begin{thebibliography}{}
+
+\bibitem[Blei et~al., 2012]{Blei2012}
+Blei, D., Carin, L., and Dunson, D. (2012).
+\newblock {Probabilistic topic models}.
+\newblock {\em Communications of the ACM}, 55(4):77--84.
+
+\bibitem[Greene and Cross, 2016]{Greene2016}
+Greene, D. and Cross, J.~P. (2016).
+\newblock {Exploring the Political Agenda of the European Parliament Using a
+  Dynamic Topic Modeling Approach}.
+\newblock pages 1--47.
+
+\bibitem[Lamb et~al., 2017]{Lamb2017}
+Lamb, W.~F., Callaghan, M.~W., Creutzig, F., Khosla, R., and Minx, J.~C.
+  (2017).
+\newblock {The literature landscape on 1.5[deg]C Climate Change and Cities}.
+\newblock {\em Current Opinion in Environmental Sustainability}.
+
+\bibitem[Lee and Seung, 1999]{Lee1999}
+Lee, D.~D. and Seung, H.~S. (1999).
+\newblock {Learning the parts of objects by non-negative matrix factorization.}
+\newblock {\em Nature}, 401(6755):788--91.
+
+\bibitem[Minx et~al., 2017a]{Minx2017}
+Minx, J.~C., Callaghan, M.~W., Creutzig, F., Hilaire, J., and Lamb, W.~F.
+  (2017a).
+\newblock {The dynamic landscape of sustainability science}.
+\newblock {\em Nature Sustainability}.
+
+\bibitem[Minx et~al., 2017b]{Minx2017c}
+Minx, J.~C., Lamb, W.~F., Callaghan, M.~W., Bornmann, L., and Fuss, S. (2017b).
+\newblock {Fast growing research on negative emissions}.
+\newblock {\em Environmental Research Letters}, 12(3):035007.
+
+\bibitem[Moretti, 2013]{Moretti2013}
+Moretti, F. (2013).
+\newblock {\em {Distant Reading}}.
+\newblock Verso, London.
+
+\bibitem[Roberts et~al., 2014]{Roberts2014a}
+Roberts, M.~E., Stewart, B.~M., Tingley, D., Lucas, C., Leder-Luis, J.,
+  Gadarian, S.~K., Albertson, B., and Rand, D.~G. (2014).
+\newblock {Structural topic models for open-ended survey responses}.
+\newblock {\em American Journal of Political Science}, 58(4):1064--1082.
+
+\end{thebibliography}
